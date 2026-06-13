@@ -29,39 +29,12 @@ ProjeTanımTeknoloji
 
 🛠️ Teknoloji Yığını
 
-Diller
-
-Görüntü Göster
-Görüntü Göster
-Görüntü Göster
-Görüntü Göster
-Görüntü Göster
-
-Ön uç
-
-Görüntü Göster
-Görüntü Göster
-Görüntü Göster
-Görüntü Göster
-Görüntü Göster
-
-Yapay Zeka ve Bilgisayar Görüşü
-
-Görüntü Göster
-Görüntü Göster
-
-Gömülü ve Donanım
-
-Görüntü Göster
-Görüntü Göster
-Görüntü Göster
-Görüntü Göster
-
-Araçlar
-
-Görüntü Göster
-Görüntü Göster
-Görüntü Göster
+Kategori Teknolojiler
+💻 DillerPython · JavaScript · Java · C++ · C#
+🎨 Ön uçTepki · Node.js · HTML5 · CSS3 · Materyal Arayüzü
+🤖 Yapay Zeka ve Bilgisayar GörüşüOpenCV · YOLO · Pygame · PID Kontrolü
+🔌 Gömülü ve DonanımSTM32 · Arduino · ESP32 · Raspberry Pi · FreeRTOS
+🗄️ Veritabanı ve AraçlarMySQL · Git · GitHub · Linux
 
 
 📈 GitHub İstatistikleri
