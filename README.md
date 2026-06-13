@@ -24,7 +24,7 @@ ProjeTanımTeknoloji
 🚁 İHA Takip SistemiPID kontrolüyle otonom drone takibi — %40 daha iyi uçuş kararlılığıPython · OpenCV · Djitellopy · Pygame  https://github.com/CabirEfe/UAV-Tracking-System
 🤖 Yapay Zeka Robotik PlatformuYüz takibi, jest kontrolü ve %88 nesne algılama doğruluğuna sahip etkileşimli robotPython · OpenCV · YOLO https://github.com/CabirEfe/AI-Robotics-Platform
 📊 Chatbot Değerlendirme Platformu20+ yapay zeka sohbet botunu gerçek zamanlı kıyaslama yapmak için web platformu (Ön Uç Mühendisi)Node.js · Tepki · HTML5 · CSS3 https://github.com/KremnaCompanyChatBot
-📡 Şebekeye Dışı İletişim Cihazıİnternetsiz ortamlar için GPS + Pusula + LoRa tabanlı iletişim cihazıESP32 · STM32 · Python · FreeRTOS  https://claude.ai/chat/0e75db23-925c-4422-b8cf-217c281f42cd#
+📡 Şebekeye Dışı İletişim Cihazıİnternetsiz ortamlar için GPS + Pusula + LoRa tabanlı iletişim cihazıESP32 · STM32 · Python · FreeRTOS  
 
 
 🛠️ Teknoloji Yığını
