@@ -1,7 +1,4 @@
-## Hi there 👋
-
-<!--
-**CabirEfe/Cab<h1 align="center">Merhaba, ben Cabir Efe 👋 </h1> <h3 align="center">Yazılım Mühendisi · Yapay Zeka & Bilgisayar Görüşü · Gömülü Sistemler</h3> <p align="center">
+<h1 align="center">Merhaba, ben Cabir Efe 👋 </h1> <h3 align="center">Yazılım Mühendisi · Yapay Zeka & Bilgisayar Görüşü · Gömülü Sistemler</h3> <p align="center">
  <a href="https://www.linkedin.com/in/cabir-efe-710105256">
  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
@@ -23,7 +20,11 @@
 
 🚀 Öne Çıkan Projeler
 
-ProjeTanımTeknoloji🚁 İHA Takip SistemiPID kontrolüyle otonom drone takibi — %40 daha iyi uçuş kararlılığıPython · OpenCV · Djitellopy · Pygame🤖 Yapay Zeka Robotik PlatformuYüz takibi, jest kontrolü ve %88 nesne algılama doğruluğuna sahip etkileşimli robotPython · OpenCV · YOLO📊 Chatbot Değerlendirme Platformu20+ yapay zeka sohbet botunu gerçek zamanlı olarak kıyaslamak için web platformuNode.js · Tepki · HTML5 · CSS3📡 Şebekeye Dışı İletişim Cihazıİnternetsiz ortamlar için GPS + Pusula + LoRa tabanlı iletişim cihazıESP32 · STM32 · Python · FreeRTOS
+ProjeTanımTeknoloji
+🚁 İHA Takip SistemiPID kontrolüyle otonom drone takibi — %40 daha iyi uçuş kararlılığıPython · OpenCV · Djitellopy · Pygame  https://github.com/CabirEfe/UAV-Tracking-System
+🤖 Yapay Zeka Robotik PlatformuYüz takibi, jest kontrolü ve %88 nesne algılama doğruluğuna sahip etkileşimli robotPython · OpenCV · YOLO https://github.com/CabirEfe/AI-Robotics-Platform
+📊 Chatbot Değerlendirme Platformu20+ yapay zeka sohbet botunu gerçek zamanlı kıyaslama yapmak için web platformu (Ön Uç Mühendisi)Node.js · Tepki · HTML5 · CSS3 https://github.com/KremnaCompanyChatBot
+📡 Şebekeye Dışı İletişim Cihazıİnternetsiz ortamlar için GPS + Pusula + LoRa tabanlı iletişim cihazıESP32 · STM32 · Python · FreeRTOS  https://claude.ai/chat/0e75db23-925c-4422-b8cf-217c281f42cd#
 
 
 🛠️ Teknoloji Yığını
@@ -70,16 +71,4 @@ Görüntü Göster
  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CabirEfe&layout=compact&theme=tokyonight&hide_border=true" width="%48"/>
 </p>  <p align="merkez">
  <i>Uzaktan fırsatlara açığım · Akıllı sistemler </i projesi 🚀 birer bir proje>
-</p>irEfe** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</p>
